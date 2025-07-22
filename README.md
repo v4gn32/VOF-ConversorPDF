@@ -1,4 +1,4 @@
-VOF-ConversorPDF é uma aplicação web simples e eficiente para conversão de documentos e imagens em arquivos PDF. Inspirado no iLovePDF, o sistema oferece uma experiência leve e direta para usuários que desejam transformar arquivos como DOC, DOCX, XLSX, PPTX, JPG, PNG e TXT em PDFs de forma rápida, sem complicações.
+VOF-ConversorPDF é uma aplicação web simples e eficiente para conversão de documentos e imagens em arquivos PDF. O sistema oferece uma experiência leve e direta para usuários que desejam transformar arquivos como DOC, DOCX, XLSX, PPTX, JPG, PNG e TXT em PDFs de forma rápida, sem complicações.
 
 🛠️ Funcionalidades:
 - Upload de múltiplos arquivos.
